@@ -1,6 +1,6 @@
 ## Version Do **Git Conventions Frontend**
 
-En este documento se detalla el flujo de trabajo que seguimos (seguiremos) en el equipo de desarrollo del LMS.
+En este documento se detalla el flujo de trabajo que seguimos (seguiremos) en el equipo de desarrollo.
 
 ---
 
