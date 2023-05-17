@@ -1,6 +1,6 @@
-## Version Do **Git Conventions Frontend**
+## Personal **Git Conventions Frontend**
 
-En este documento se detalla el flujo de trabajo que seguimos (seguiremos) en el equipo de desarrollo.
+En este documento se detalla un flujo de trabajo matenible y seguible.
 
 ---
 
@@ -92,7 +92,7 @@ Convenciones en la nomenclatura para ramas y mensajes de commit.
 ### 🌼Branch Life
 
 La ramas debe ser eliminadas luego de su merge a main branch 🌿  
-Las dramas con el \<token> temp(temp/fix-styles) deben ser eliminadas luego de un tiempo prudente  
+Las ramas con el \<token> temp(temp/fix-styles) deben ser eliminadas luego de un tiempo prudente  
  
 
 ### 🐶GitHub Repository
